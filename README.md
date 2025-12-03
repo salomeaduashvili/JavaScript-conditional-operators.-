@@ -31,6 +31,7 @@ All user inputs are taken using **prompt-sync**.
 ```bash
 npm install prompt-sync
 ```
+3. Run the script:
 ```bash
 node script.js
 ```

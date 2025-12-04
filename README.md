@@ -35,6 +35,7 @@ npm install prompt-sync
 ```bash
 node script.js
 ```
+---
 ## 📝 Technologies used / გამოყენებული ტექნოლოგიები
 - JavaScript
 - Node.js
